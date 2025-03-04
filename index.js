@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 'use strict';
-
+//.
 import chalk from 'chalk';
 import fetch from 'node-fetch';
 
