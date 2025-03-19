@@ -1,5 +1,5 @@
 # Word Lookup
-
+#
 Look up dictionary words straight in the terminal.
 
 
